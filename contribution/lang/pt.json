@@ -28,13 +28,13 @@
  	 	 	 	"eng": "Arasaka Unit Exchange"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Você pode comprar intens de buffs globais aqui",
+ 	 	 	 	"trans": "Você pode comprar itens de buffs globais aqui",
  	 	 	 	"eng": "You can purchase global buff items here"
  	 	 	}
  	 	},
  	 	"cosmetic": {
  	 	 	"name": {
- 	 	 	 	"trans": "Cyberware cosmético",
+ 	 	 	 	"trans": "Cyberwear cosmético",
  	 	 	 	"eng": "Cosmetic Cyberwear"
  	 	 	},
  	 	 	"tut": {
@@ -64,7 +64,7 @@
  	 	 	 	"eng": "Terminal"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Para progredir para a proxima área, você precisa obter os Fragmentos das Chaves Secretas nas masmorras, \r\n        e usá las terminal para Forjar uma chave para a proxima área",
+ 	 	 	 	"trans": "Para progredir para a proxima área, você precisa obter os Fragmentos das Chaves Secretas nas masmorras, \r\n        e usar no Terminal para Forjar uma chave para a proxima área",
  	 	 	 	"eng": "To progress to next area, you need to use get Secret Key Fragments from dungeons, \r\n        and use Terminal to Brute Force the key for next area"
  	 	 	},
  	 	 	"description": {
@@ -98,7 +98,7 @@
  	"levelType": {
  	 	"normal": {
  	 	 	"name": {
- 	 	 	 	"trans": "level",
+ 	 	 	 	"trans": "nível",
  	 	 	 	"eng": "level"
  	 	 	}
  	 	},
@@ -122,7 +122,7 @@
  	 	},
  	 	"scavenge": {
  	 	 	"name": {
- 	 	 	 	"trans": "Habilidade de coleta",
+ 	 	 	 	"trans": "habilidade de coleta",
  	 	 	 	"eng": "scavenge skill"
  	 	 	}
  	 	},
@@ -145,7 +145,7 @@
  	 	 	},
  	 	 	"toStation": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Ir para estação central do trem Hyper",
+ 	 	 	 	 	"trans": "Ir para Estação Central do Hyper Trem",
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	},
  	 	 	 	"tut": {
@@ -153,7 +153,7 @@
  	 	 	 	 	"eng": "Start your adventure to epic loots here"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Ir para Estação Central do Trem Hyper",
+ 	 	 	 	 	"trans": "Ir para Estação Central do Hyper Trem",
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	}
  	 	 	},
@@ -169,11 +169,11 @@
  	 	 	},
  	 	 	"toMarket": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Ir para feira de Shangri-La",
+ 	 	 	 	 	"trans": "Ir para Feira de Shangri-La",
  	 	 	 	 	"eng": "Go to Shangri-La Market Street"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "Você pode vender e comprar items de outros jogadores aqui",
+ 	 	 	 	 	"trans": "Você pode vender ou comprar items de outros jogadores aqui",
  	 	 	 	 	"eng": "You can sell or buy items from other players here"
  	 	 	 	}
  	 	 	}
@@ -212,11 +212,11 @@
  	 	},
  	 	"station": {
  	 	 	"name": {
- 	 	 	 	"trans": "Estação Central do Trem Hyper",
+ 	 	 	 	"trans": "Estação Central do Hyper Trem",
  	 	 	 	"eng": "Hyper Train Central Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Adventure]\r\n        Usando o Hyperloop você pode atravessar o continente facilmente, graças a sua super velocidade.",
+ 	 	 	 	"trans": "[Adventure]\r\n        Usando o Hyperloop você pode atravessar com super velocidade o continente facilmente.",
  	 	 	 	"eng": "[Adventure]\r\n        Using the hyperloop you can travel at super speed across the continent with ease."
  	 	 	}
  	 	},
@@ -233,7 +233,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"mainHubName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "voltar para ${mainHubName}",
+ 	 	 	 	 	"trans": "Voltar para ${mainHubName}",
  	 	 	 	 	"eng": "Return to ${mainHubName}"
  	 	 	 	}
  	 	 	},
@@ -255,11 +255,11 @@
  	 	 	},
  	 	 	"toStation": {
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Voltar para a Estação do Trem Hyper",
+ 	 	 	 	 	"trans": "Voltar para a Estação do Hyper Trem",
  	 	 	 	 	"eng": "Return to Hyper Train Station"
  	 	 	 	},
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "voltar para a Estação do Trem Hyper",
+ 	 	 	 	 	"trans": "voltar para a Estação do Hyper Trem",
  	 	 	 	 	"eng": "back to Hyper Train Station"
  	 	 	 	}
  	 	 	}
@@ -280,7 +280,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"segmentStationName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "continue aqui para lutar contra um inimigo de nível 1",
+ 	 	 	 	 	"trans": "Continue aqui para lutar contra um inimigo de nível 1",
  	 	 	 	 	"eng": "Continue here to fight level 1 enemy"
  	 	 	 	},
  	 	 	 	"description": {
@@ -295,7 +295,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"segmentDisplayName"
  	 	 	 	],
- 	 	 	 	"trans": "estação ${segmentDisplayName}",
+ 	 	 	 	"trans": "Estação ${segmentDisplayName}",
  	 	 	 	"eng": "${segmentDisplayName} station"
  	 	 	},
  	 	 	"description": {
@@ -303,7 +303,7 @@
  	 	 	 	 	"segment",
  	 	 	 	 	"segmentMaxLevel"
  	 	 	 	],
- 	 	 	 	"trans": "Level ${segment} á ${segmentMaxLevel}",
+ 	 	 	 	"trans": "Nível ${segment} á ${segmentMaxLevel}",
  	 	 	 	"eng": "Level ${segment} to ${segmentMaxLevel}"
  	 	 	}
  	 	}
@@ -314,7 +314,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"levelName"
  	 	 	 	],
- 	 	 	 	"trans": "Chip de experiência [${levelName}]",
+ 	 	 	 	"trans": "Chip de Experiência [${levelName}]",
  	 	 	 	"eng": "Experience Shard [${levelName}]"
  	 	 	},
  	 	 	"description": {
@@ -331,14 +331,14 @@
  	 	 	 	 	"segmentDisplayName",
  	 	 	 	 	"fragmentNum"
  	 	 	 	],
- 	 	 	 	"trans": "Fragmento de chave ${segmentDisplayName} ${fragmentNum}",
+ 	 	 	 	"trans": "Fragmento de Chave ${segmentDisplayName} ${fragmentNum}",
  	 	 	 	"eng": "${segmentDisplayName} Key Fragment ${fragmentNum}"
  	 	 	},
  	 	 	"description": {
  	 	 	 	"vars": [
  	 	 	 	 	"segmentDisplayName"
  	 	 	 	],
- 	 	 	 	"trans": "Um framento de chave, usado para forjar uma chave secreta.\r\n                                Use o terminal no centro da cidade [Hub] para Forjar uma chave secreta ${segmentDisplayName} .\r\n                                Você pode adquirir cada um dos 3 fragmentos de chaves necessária em cada masmorra (Seja normal ou Desafiadora),\r\n                                quando você tiver os 3 fragmentos de chave, você pode usar o terminal para forjar (Craft) uma chave secreta para a próxima área",
+ 	 	 	 	"trans": "Um framento de chave, usado para forjar uma chave secreta.\r\n                                Use o Terminal no centro da cidade [Hub] para Forjar uma chave secreta ${segmentDisplayName} .\r\n                                Você pode adquirir cada um dos 3 fragmentos de chaves necessária em cada masmorra (Seja normal ou Desafiadora),\r\n                                quando você tiver os 3 fragmentos de chave, você pode usar o terminal para forjar (Craft) uma chave secreta para a próxima área",
  	 	 	 	"eng": "Secret key Fragment Use to brute-force a secret key.\r\n                                Use the Terminal at city center [Hub] to brute-force a ${segmentDisplayName} secret key.\r\n                                You can acquire each of the 3 required keys in each dungeon (both normal or challenge),\r\n                                when you acquired 3 keys, you may use Terminal to brute-force (Craft) a key to the next area"
  	 	 	}
  	 	},
@@ -348,14 +348,14 @@
  	 	 	 	 	"tierName",
  	 	 	 	 	"typeName"
  	 	 	 	],
- 	 	 	 	"trans": "cache de ${typeName} ${tierName}",
+ 	 	 	 	"trans": "Cache de ${typeName} ${tierName}",
  	 	 	 	"eng": "${tierName} ${typeName} cache"
  	 	 	},
  	 	 	"description": {
  	 	 	 	"vars": [
  	 	 	 	 	"typeName"
  	 	 	 	],
- 	 	 	 	"trans": "Um cache de ${typeName} que contém informações que são usadas na Impressora Molecular 3D, \r\n                    Você pode criar um(a) ${typeName} na [Molecular 3d Printer] no [Central Hub].\r\n                    \r\n                    Dica Pro: O level do item é determinado pelo level da sua classificação de impressão,\r\n                    então sempre imprima os lixos primeiro, eles custam pouco e são úteis para aumetar sua Classificação de Impressão",
+ 	 	 	 	"trans": "Um cache de ${typeName} que contém informações usadas na Impressora Molecular 3D, \r\n                    Você pode criar um(a) ${typeName} na [Molecular 3d Printer] no [Central Hub].\r\n                    \r\n                    Dica Pro: O level do item é determinado pelo level da sua classificação de impressão,\r\n                    então sempre imprima os lixos primeiro, eles custam pouco e são úteis para aumetar sua Classificação de Impressão",
  	 	 	 	"eng": "A ${typeName} cache contains information used for Molecular 3D Printing, \r\n                    You can create a ${typeName} with the [Molecular 3d Printer] at [Central Hub].\r\n                    \r\n                    Pro tip: The level of item you get from printing is determined by your Printing Rank,\r\n                    so always print the trash ones first, as they cost less and useful to level up your Printing Rank"
  	 	 	}
  	 	},
@@ -671,11 +671,11 @@
  	 	},
  	 	"techScrap": {
  	 	 	"name": {
- 	 	 	 	"trans": "Sucata de tecnologia",
+ 	 	 	 	"trans": "Sucata tecnológica",
  	 	 	 	"eng": "Tech Scrap"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Sucata de tecnologia de equipamentos desmontados, isso pode ser submetido a engenharia reversa para ganhar xp de impressão. \r\n       Você pode fazer engenharia reversa no Job Hub.",
+ 	 	 	 	"trans": "Sucata tecnológica de equipamentos desmontados, isso pode ser submetido a engenharia reversa para ganhar xp de impressão. \r\n       Você pode fazer engenharia reversa no Job Hub.",
  	 	 	 	"eng": "Technology scrap from disassembled equipment, this can be reverse engineered to gain printing xp. \r\n        You can perform reverse engineering in the Job Hub."
  	 	 	}
  	 	},
@@ -745,11 +745,11 @@
  	 	},
  	 	"increasePrint": {
  	 	 	"name": {
- 	 	 	 	"trans": "Trabalhando na fábrica de impressão",
+ 	 	 	 	"trans": "Trabalhe na fábrica de impressão",
  	 	 	 	"eng": "work in printing factory"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Aumente seu Rank de Impressão sem usar sucatas de tecnologia, isto vai te ajudar a aumentar o level das suas impressões.",
+ 	 	 	 	"trans": "Aumente seu Rank de Impressão sem usar sucatas tecnológicas, isto vai te ajudar a aumentar o level das suas impressões.",
  	 	 	 	"eng": "Improve Printing Rank without sacrificing tech scrap, this may help to increase the level of your prints."
  	 	 	}
  	 	},
@@ -775,11 +775,11 @@
  	 	},
  	 	"reverseEngineer": {
  	 	 	"name": {
- 	 	 	 	"trans": "Engenharia Reversa com sucatas",
+ 	 	 	 	"trans": "Engenharia Reversa com Sucatas",
  	 	 	 	"eng": "Reverse Engineer Scraps"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Faça engenharia reversa para melhorar seu Rank de Impressão. \r\n        Você vai precisar sacrificar parte de suas sucatas de tecnologia.",
+ 	 	 	 	"trans": "Faça engenharia reversa para melhorar seu Rank de Impressão. \r\n        Você vai precisar sacrificar parte de suas sucatas tecnológicas.",
  	 	 	 	"eng": "Reverse engineer tech scrap to improve your Print Rank. \r\n        You’ll need to sacrifice some of your tech scrap."
  	 	 	}
  	 	},
@@ -789,7 +789,7 @@
  	 	 	 	"eng": "initiate crypto mining"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "iniciar uma mineração de criptomoeda vai fazer com que voê ganhe Bitcoins, no entanto, devido ao uso intenso dos processadores Hash, Unidade de Processamento Quântica, também conhecido como QUP, frequentemente queimam.",
+ 	 	 	 	"trans": "Iniciar uma mineração de criptomoeda vai fazer com que voê ganhe Bitcoins, no entanto, devido ao uso intenso dos processadores Hash, Unidade de Processamento Quântica, também conhecido como QUP, frequentemente queimam.",
  	 	 	 	"eng": "Engaging in crypto mining will earn you Bitcoins, however due to the intense use of the Hash Processors, the Quantum Processing Unit, otherwise known as the QPU, will often burn out."
  	 	 	}
  	 	},
@@ -798,7 +798,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"zoneName"
  	 	 	 	],
- 	 	 	 	"trans": "Procurar por coisas em ${zoneName}",
+ 	 	 	 	"trans": "Coletar em ${zoneName}",
  	 	 	 	"eng": "Scavenge in ${zoneName}"
  	 	 	},
  	 	 	"description": {
@@ -856,7 +856,7 @@
  	 	 	 	 	"keyFragmentDisplayName",
  	 	 	 	 	"maxLevel"
  	 	 	 	],
- 	 	 	 	"trans": "Level Recomendado:　${maxLevel}\r\n                    ${expMultiplier}x mais EXP!\r\n                    Drops ${keyFragmentDisplayName}",
+ 	 	 	 	"trans": "Nível Recomendado:　${maxLevel}\r\n                    ${expMultiplier}x vezes mais EXP!\r\n                    Drops ${keyFragmentDisplayName}",
  	 	 	 	"eng": "Recommended Level:　${maxLevel}\r\n                    ${expMultiplier}x times more EXP!\r\n                    Drops ${keyFragmentDisplayName}"
  	 	 	},
  	 	 	"startName": {
@@ -870,7 +870,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"zoneName"
  	 	 	 	],
- 	 	 	 	"trans": "Vá mais fundo nas masmorras para adquirir mais EXP e saques!\r\n                        Lembre-se de comprar alguns itens para recuperar vida! Você não regenera vida nas masmorras depois de batalhas,)'\r\n                        shouldShow: (player) => player.getAverageItemLevel() > 5\r\n                    },\r\n                    config: {\r\n                        criticalRoom: [3, 4],\r\n                        additionalRoom: [2, 3],\r\n                        tiles: {\r\n                            SUPPLY_CRATE_1: { minMax: [0, 2] },\r\n                            AMMO_CRATE_1: { minMax: [0, 2] }\r\n                        },\r\n                        lastRoomTiles: {\r\n                            LOOT_CRATE: { minMax: [3, 4] },\r\n                            AMMO_CRATE_1: { minMax: [2, 3] },\r\n                            DYNAMIC_SECRET_KEY: {\r\n                                minMax: [1, 1],\r\n                                extraReward: {\r\n                                    items: [{ itemType: secreteKeyFragmentId as any }]\r\n                                }\r\n                            }\r\n                        },\r\n                        enemy: {\r\n                            normalRoom: [{\r\n                                amount: [2, 3],\r\n                                type: zoneId\r\n                            }],\r\n                            lastRoom: [{\r\n                                amount: [4, 6],\r\n                                type: zoneId,\r\n                            }]\r\n                        },\r\n                    }\r\n                });\r\n                DungeonSetting.values.push(normalDungeon);\r\n                const challengeDungeon = new DungeonSetting({\r\n                    name: challengeDungeonId,\r\n                    startName: lang('dungeon.challenge.startName', `attack ${zoneName}",
+ 	 	 	 	"trans": "Vá mais fundo nas masmorras para adquirir mais EXP e saques!\r\n                        Lembre-se de comprar alguns itens de cura! Você não regenera vida nas masmorras depois de batalhas,)'\r\n                        shouldShow: (player) => player.getAverageItemLevel() > 5\r\n                    },\r\n                    config: {\r\n                        criticalRoom: [3, 4],\r\n                        additionalRoom: [2, 3],\r\n                        tiles: {\r\n                            SUPPLY_CRATE_1: { minMax: [0, 2] },\r\n                            AMMO_CRATE_1: { minMax: [0, 2] }\r\n                        },\r\n                        lastRoomTiles: {\r\n                            LOOT_CRATE: { minMax: [3, 4] },\r\n                            AMMO_CRATE_1: { minMax: [2, 3] },\r\n                            DYNAMIC_SECRET_KEY: {\r\n                                minMax: [1, 1],\r\n                                extraReward: {\r\n                                    items: [{ itemType: secreteKeyFragmentId as any }]\r\n                                }\r\n                            }\r\n                        },\r\n                        enemy: {\r\n                            normalRoom: [{\r\n                                amount: [2, 3],\r\n                                type: zoneId\r\n                            }],\r\n                            lastRoom: [{\r\n                                amount: [4, 6],\r\n                                type: zoneId,\r\n                            }]\r\n                        },\r\n                    }\r\n                });\r\n                DungeonSetting.values.push(normalDungeon);\r\n                const challengeDungeon = new DungeonSetting({\r\n                    name: challengeDungeonId,\r\n                    startName: lang('dungeon.challenge.startName', `attack ${zoneName}",
  	 	 	 	"eng": "Dive into dungeon to get even more exp and loot!\r\n                        remember to buy some healing item! you won\"t regen after battle in dungeon"
  	 	 	}
  	 	},
@@ -881,11 +881,11 @@
  	 	 	 	 	"keyFragmentDisplayName",
  	 	 	 	 	"expMultiplier"
  	 	 	 	],
- 	 	 	 	"trans": "Level Recomendado:　${maxLevel}+ Em co-op\r\n                    ${expMultiplier}x mais EXP!\r\n                    Modo de masmorra Desafiadora, saques extras e exp.\r\n                    Drops ${keyFragmentDisplayName}\r\n                   Não é aconselhável entrar se o seu nível for muito baixo",
+ 	 	 	 	"trans": "Nível Recomendado:　${maxLevel}+ Em co-op\r\n                    ${expMultiplier}x mais EXP!\r\n                    Modo de Masmorra Desafiadora, saques extras e exp.\r\n                    Drops ${keyFragmentDisplayName}\r\n                   Não é aconselhável entrar se o seu nível for muito baixo",
  	 	 	 	"eng": "Recommended Level:　${maxLevel}+ with co-op\r\n                    ${expMultiplier}x more EXP!\r\n                    Challenge mode dungeon, extra loot and exp.\r\n                    Drops ${keyFragmentDisplayName}\r\n                    Not advised to enter if your level is too low"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Você é forte o suficiente? Tente uma masmorra Desafiadora,\r\n                        tem um boss muito mais poderoso e melhores saques esperando por você!\r\n                        É recomendado lutar com a ajuda de outros jogadores.",
+ 	 	 	 	"trans": "Você é forte o suficiente? Tente uma Masmorra Desafiadora,\r\n                        tem um Boss muito mais poderoso e melhores saques esperando por você!\r\n                        É recomendado lutar com a ajuda de outros jogadores.",
  	 	 	 	"eng": "Are you strong enough? try it out on Challenge Dungeon,\r\n                        there is a strong boss and tons of loot at the end waiting for you!\r\n                        Its recommended to attempt this with other players."
  	 	 	},
  	 	 	"startName": {
@@ -915,7 +915,7 @@
  	 	 	"vars": [
  	 	 	 	"segmentDisplayName"
  	 	 	],
- 	 	 	"trans": "Progression- ${progressionId}",
+ 	 	 	"trans": "Adquira 3 fragmentos de chave diferentes em cada calabouço localizado em ${segmentDisplayName},\r\n                eles são usados para criar a chave para a próxima área.\r\n                Para criar a chave, vá para o terminal em [HUB]",
  	 	 	"eng": "Acquire 3 different Key Fragments from each dungeons located in ${segmentDisplayName},\r\n                these are used to create the key to next zone.\r\n                To craft the key, go to terminal in [HUB]",
  	 	 	"name": {
  	 	 	 	"vars": [
@@ -928,7 +928,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"segmentDisplayName"
  	 	 	 	],
- 	 	 	 	"trans": "adquira 3 fragmentos de chave diferentes em cada calabouço localizado em ${segmentDisplayName},\r\n                eles são usados para criar a chave para a próxima área.\r\n                Para criar a chave, vá para o terminal em [HUB]",
+ 	 	 	 	"trans": "Adquira 3 fragmentos de chave diferentes em cada calabouço localizado em ${segmentDisplayName},\r\n                eles são usados para criar a chave para a próxima área.\r\n                Para criar a chave, vá para o terminal em [HUB]",
  	 	 	 	"eng": "Acquire 3 different Key Fragments from each dungeons located in ${segmentDisplayName},\r\n                these are used to create the key to next zone.\r\n                To craft the key, go to terminal in [HUB]"
  	 	 	}
  	 	},
@@ -947,7 +947,7 @@
  	 	 	},
  	 	 	"clearDungeon": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "dungeon crawler",
+ 	 	 	 	 	"trans": "restejante da masmorra",
  	 	 	 	 	"eng": "dungeon crawler"
  	 	 	 	}
  	 	 	},
@@ -986,7 +986,7 @@
  	 	},
  	 	"mobileQuestPage": {
  	 	 	"receiveReward": {
- 	 	 	 	"trans": "Clique para receber a recompensa",
+ 	 	 	 	"trans": "Clique para receber recompensa",
  	 	 	 	"eng": "Click to receive reward"
  	 	 	},
  	 	 	"inProgress": {
@@ -1010,7 +1010,7 @@
  	 	},
  	 	"playerDetails": {
  	 	 	"alias": {
- 	 	 	 	"trans": "Pseudônimo",
+ 	 	 	 	"trans": "Apelido",
  	 	 	 	"eng": "Alias"
  	 	 	},
  	 	 	"title": {
@@ -1047,7 +1047,7 @@
  	 	 	 	 	"eng": "Gang Actions"
  	 	 	 	},
  	 	 	 	"kick": {
- 	 	 	 	 	"trans": "expulsar",
+ 	 	 	 	 	"trans": "Expulsar",
  	 	 	 	 	"eng": "Kick"
  	 	 	 	},
  	 	 	 	"transferLeadership": {
@@ -1065,7 +1065,7 @@
  	 	 	 	 	"eng": "Send private message"
  	 	 	 	},
  	 	 	 	"sendGift": {
- 	 	 	 	 	"trans": "Envie um presente",
+ 	 	 	 	 	"trans": "Enviar presente",
  	 	 	 	 	"eng": "Send Gift"
  	 	 	 	},
  	 	 	 	"inviteToGang": {
@@ -1090,7 +1090,7 @@
  	 	 	 	"eng": "Bio"
  	 	 	},
  	 	 	"bioNotFound": {
- 	 	 	 	"trans": "REDIGIDA",
+ 	 	 	 	"trans": "REMOVIDA",
  	 	 	 	"eng": "REDACTED"
  	 	 	}
  	 	},
@@ -1163,11 +1163,11 @@
  	 	 	 	"eng": "This language pack is open source and contributed by our players, the text may not be fully translated and could contain mistakes. please feel free to edit and contribute from our Github page"
  	 	 	},
  	 	 	"playBackgroundMusic": {
- 	 	 	 	"trans": "Música de fundo mudo",
+ 	 	 	 	"trans": "Mutar música de fundo",
  	 	 	 	"eng": "Mute background music"
  	 	 	},
  	 	 	"restartRequired": {
- 	 	 	 	"trans": "O aplicativo reiniciará após salvar",
+ 	 	 	 	"trans": "Aplicativo irá reiniciar após salvar",
  	 	 	 	"eng": "App will self restart after save"
  	 	 	},
  	 	 	"save": {
@@ -1335,13 +1335,13 @@
  	 	 	 	"eng": "MaxShield"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Aumenta a capacidade do escudo",
+ 	 	 	 	"trans": "Aumenta capacidade do escudo",
  	 	 	 	"eng": "Increases your shield capacity"
  	 	 	}
  	 	},
  	 	"description": {
  	 	 	"name": {
- 	 	 	 	"trans": "Aumenta a capacidade do escudo",
+ 	 	 	 	"trans": "Aumenta capacidade do escudo",
  	 	 	 	"eng": "Increases inventory capacity"
  	 	 	}
  	 	},
@@ -1361,13 +1361,13 @@
  	 	 	 	"eng": "Stun chance"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Chance de você atordoar seu inimigo ao causar dano, \r\n    fazendo com que eles não sejam capazes de responder ao seu ataque",
+ 	 	 	 	"trans": "Chance de você atordoar seu inimigo ao causar dano, \r\n    causando neles incapacidade de responder ao seu ataque",
  	 	 	 	"eng": "Chance of you stunning your enemy when dealing damage, \r\n    causing them not able to respond to your attack"
  	 	 	}
  	 	},
  	 	"evade": {
  	 	 	"name": {
- 	 	 	 	"trans": "Evadir",
+ 	 	 	 	"trans": "Esquivar",
  	 	 	 	"eng": "Evade"
  	 	 	},
  	 	 	"description": {
@@ -1451,7 +1451,7 @@
  	 	 	 	"eng": "Time reduction"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Reduz o tempo necessário para as tarefas AFK",
+ 	 	 	 	"trans": "Reduz o tempo necessário nas tarefas AFK",
  	 	 	 	"eng": "Reduce AFK task required time"
  	 	 	}
  	 	},
@@ -1560,7 +1560,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"levelName"
  	 	 	 	],
- 	 	 	 	"trans": "Parabéns, você upou de level em ${levelName}!",
+ 	 	 	 	"trans": "Parabéns, você upou de nível em ${levelName}!",
  	 	 	 	"eng": "Congratulation, you have leveled up your ${levelName}!"
  	 	 	},
  	 	 	"fromTo": {
